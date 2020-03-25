@@ -10,6 +10,7 @@
 - [marksentence v1.2](https://github.com/Gltina/marksentence/releases/download/V1.2/marksentence.exe)
 
 ### 从源码编译
+- `[OK] Qt 5.6.1 MinGW 32bit（我的开发环境）`
 - `[OK] Qt 5.12.3 MSVC2017 64bit`
 - `[OK] Qt 5.12.3 GCC5.4.0 64bit`
 
